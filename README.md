@@ -401,7 +401,7 @@ We have a clear vision to evolve Sahayak from a prototype to a medical-grade pro
       Hardware & Edge Privacy
     </td>
     <td align="center" width="25%">
-      <img src="https://drive.google.com/uc?export=view&id=1_4z0OUDLOYTasXDDlEnNtigU2poP53zF" width="100px" alt="Team Member" />
+      
 <br />
 
 </table>
