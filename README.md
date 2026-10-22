@@ -16,7 +16,7 @@ Hackathon team repository for Team Percevia - [hackindia-team:hackindia-spark-6-
     <img src="https://img.shields.io/badge/AI-Edge_Computing-00C853?style=for-the-badge&logo=nvidia&logoColor=white" />
   </p>
 
-  <h3 align="center">✨ Protex: Hack-2-Win ✨</h3>
+  <h3 align="center">✨ T HACKS 9.0 ✨</h3>
 </div>
 
 ---
@@ -420,7 +420,7 @@ We have a clear vision to evolve Sahayak from a prototype to a medical-grade pro
   <br />
   <p>
     Made <b>Team Percevia</b><br>
-    <b>Protex: Hack-2-Win (Round 1)</b>
+    <b>T HACKS 9.0: Hack-2-Win (Round 1)</b>
   </p>
 </div>
 
