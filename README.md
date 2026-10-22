@@ -403,26 +403,7 @@ We have a clear vision to evolve Sahayak from a prototype to a medical-grade pro
     <td align="center" width="25%">
       <img src="https://drive.google.com/uc?export=view&id=1_4z0OUDLOYTasXDDlEnNtigU2poP53zF" width="100px" alt="Team Member" />
 <br />
-      <b>Khushi Sharma</b><br>
-      <a href="www.linkedin.com/in/khushish18/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-      </a><br />
-      🧠 <i>Memory Architect</i><br />
-      Episodic Memory & Agents
-    </td>
-    <td align="center" width="25%">
-      <img src="https://drive.google.com/uc?export=view&id=1ZvF8RjblBYJdmEEJ9_zH_1cZ8SbY-e7Q" width="100px" alt="Team Member" />
-<br />
-      <b>Aayushi Gupta</b><br>
-      <a href="https://www.linkedin.com/in/aayushi-gupta-991720325/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-      </a><br />
-      🗣️ <i>Voice Engineer</i><br />
-      NLP & Accessibility
-    </td>
-   
-    </td>
-  </tr>
+
 </table>
 
 **College:** Vivekananda Institute of Professional Studies (VIPS), Delhi 🏛️
